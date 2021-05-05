@@ -48,5 +48,4 @@ function draw() {
      game.end();
    }
 
-   text("Score: ", +score, 980, 20)
 }
